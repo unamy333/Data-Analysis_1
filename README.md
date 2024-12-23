@@ -20,6 +20,7 @@ To find major Contributors of student's mental health and inter-relationships be
 -<a href="https://github.com/unamy333/Data-Analysis_1/blob/main/Screenshot%202024-12-23%20084439.png"> Dashboard image </a>
 
 ## Project Insights :
+Students from late teen to late twenties seems to be mosty affected by mental health issues, the general trend seems to be similar for both genders. Meanwhile academic pressure and Financial Stress seems to greatly affect the mental Health of students.Financial stress being the major contributing aspect of student Depression.
 
 ## Final Conclusion:
-
+Depression among student is generally less gender oreinted meanwhile peaking between late teens and late Twenties.meanwhile the major contributing factors being Financial and Academic Stress.
