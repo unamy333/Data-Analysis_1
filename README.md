@@ -1,10 +1,10 @@
 # DATA ANALYSIS OF STUDENT DEPRESSION (Dashboard using Excel and Power BI)
 ## Project Objective
-The store wants to create a report for .so that 
+To find major Contributors of student's mental health and inter-relationships between them.
 ## Dataset Used
 - <a href ="https://github.com/unamy333/Data-Analysis_1/blob/main/Student%20Depression%20Dataset.xlsx">Student Depression data </a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 •	Compare the age of student and student depression.
 •	Find out the relationship between student depression and financial status.
 •	Compare the student depression based on gender.
@@ -16,10 +16,10 @@ The store wants to create a report for .so that
 •	Create pivot tables according to the Questions asked.
 •	Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 -<a href="https://github.com/unamy333/Data-Analysis_1/blob/main/Dashboard.xlsx"> View Dashboard </a>
-##Dashboard
+## Dashboard
 -<a href="https://github.com/unamy333/Data-Analysis_1/blob/main/Screenshot%202024-12-23%20084439.png"> Dashboard image </a>
 
-##Project Insights :
+## Project Insights :
 
-##Final Conclusion:
+## Final Conclusion:
 
