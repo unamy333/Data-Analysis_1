@@ -16,7 +16,6 @@ The store wants to create a report for .so that
 •	Create pivot tables according to the Questions asked.
 •	Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 -<a href="https://github.com/unamy333/Data-Analysis_1/blob/main/Dashboard.xlsx"> View Dashboard </a>
-
 ##Dashboard
 -<a href="https://github.com/unamy333/Data-Analysis_1/blob/main/Screenshot%202024-12-23%20084439.png"> Dashboard image </a>
 
