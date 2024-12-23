@@ -9,10 +9,10 @@ To find major Contributors of student's mental health and inter-relationships be
 
 ## Questions (KPIs)
 
-•	Compare the age of student and student depression.
-•	Find out the relationship between student depression and financial status.
-•	Compare the student depression based on gender.
-•	Find the relationship between student depression with the family history of mental illness.
+•	Compare the age of student and student depression.  
+•	Find out the relationship between student depression and financial status.  
+•	Compare the student depression based on gender.  
+•	Find the relationship between student depression with the family history of mental illness.  
 
 ## Process
 
